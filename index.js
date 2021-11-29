@@ -9,13 +9,13 @@ if (userQuestion ==answer){
   score++;
   console.log("Socre: ",score)
 }else{
-  console.log("Nops try Again");
+  console.log("Nops !!");
   score--;
   console.log("Socre: ",score)
 }
 }
 
-play("My Name","Piyush");
-play("Age","19");
-play("from","sikkim");
-play("WOWOW","heheh");
+play("My Name ","Piyush");
+play("Age ","19");
+play("from? ","sikkim");
+play("WOWOW ","heheh");
