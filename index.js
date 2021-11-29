@@ -15,7 +15,7 @@ if (userQuestion ==answer){
 }
 }
 
-play("My Name","Piyush";
+play("My Name","Piyush");
 play("Age","19");
 play("from","sikkim");
 play("WOWOW","heheh");
