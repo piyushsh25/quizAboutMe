@@ -11,11 +11,13 @@ if (userQuestion ==answer){
 }else{
   console.log("Nops !!");
   score--;
-  console.log("Socre: ",score)
+  console.log("Score: ",score)
 }
 }
 
 play("My Name ","Piyush");
 play("Age ","19");
 play("from? ","sikkim");
-play("WOWOW ","heheh");
+play("fav place ","bangalore");
+play("fav programming language","javascript");
+
